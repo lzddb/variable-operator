@@ -10,10 +10,9 @@
 	<?php
 		$angka1 = 198;
 		$angka2 = 134;
-        $angka3 =  76;
+       	 	$angka3 =  76;
 		$jumlah = $angka1 + $angka2 + $angka3;
 		$teks = 'Ketiga variabel bila dijumlah menjadi: ';
-		
 		echo ($teks . $jumlah);
 	?>
 </body>
